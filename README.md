@@ -44,3 +44,45 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/foody-fab.git
+
+   ---
+   # Foody Fab 🍽️
+
+## Project Setup
+
+### Navigate into the Project Directory
+```bash
+cd foody-fab
+```
+
+### Install Dependencies
+```bash
+npm install
+```
+
+## Development Server 🚀
+1. Start the development server:
+```bash
+npm run dev
+```
+
+2. Open your browser and go to `http://localhost:5173/`
+
+## Production Build 🔧
+1. Create a production build:
+```bash
+npm run build
+```
+
+2. Preview the production build:
+```bash
+npm run preview
+```
+
+## Contributing 🤝
+- Fork the project
+- Submit pull requests
+- Open issues for suggestions or bugs
+
+## License 📜
+MIT License - see LICENSE file for details.
