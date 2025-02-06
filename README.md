@@ -30,6 +30,9 @@ Foody Fab is a modern food delivery platform built with React and Vite. It allow
 ### Special Dishes 🍣🍱
 ![Special Dishes Screenshot](images/special-dishes.png)
 
+### Login Page 🔑
+![Login Page Screenshot](images/login.png)
+
 ## Getting Started 🚀
 
 ### Prerequisites 🧑‍💻
